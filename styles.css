@@ -1,0 +1,130 @@
+body {
+    font-family: "Quicksand", sans-serif;
+  }
+  
+  h1, h2 {
+    font-weight: 600;
+  }
+  
+  h3 {
+    font-weight: 300;
+  }
+  
+  p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+  }
+  
+  #colors {
+    border: solid 4px black;
+    padding: 10px;
+    font-weight: 100;
+    margin: 5px;
+  }
+  
+  #colors div {
+    display: inline-block;
+    padding: 50px;
+    width: 157px;
+    height: 157px;
+    margin-bottom: 0px;
+    vertical-align: top;
+  }
+  
+  #colors div ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #imperialred {
+    background-color: #E63946;
+    color: white;
+  }
+  
+  #mediumslateblue {
+    background-color: #715AFF;
+    color: white;
+  }
+  
+  #cornflowerblue {
+    background-color: #5887FF;
+    color: white;
+  }
+  
+  #mayablue {
+    background-color: #55C1FF;
+    color: black;
+  }
+  
+  #honeydew {
+    background-color: #F1FAEE;
+    color: black;
+  }
+  
+  #fonts {
+    border: solid 4px black;
+    padding: 10px;
+    margin: 5px;
+  }
+  
+  #fonts div {
+    display: inline-block;
+    margin: 0px;
+    width: 300px;
+    height: 275px;
+    vertical-align: top;
+  }
+  
+  #fonts div ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    line-height: 24px;
+  }
+  
+  li.bold-text {
+    font-style: bold;
+  }
+  
+  li.italic-text {
+    font-style: italic;
+  }
+  
+  #questrial {
+    font-family: "Questrial", sans-serif;
+  }
+  
+  #quicksand {
+    font-family: "Quicksand", sans-serif;
+  }
+  
+  #quicksand .bold-text {
+    font-weight: 600;
+  }
+  
+  div#quicksand ul {
+    margin-top: -5px;
+  }
+  
+  #roboto {
+    font-family: "Roboto", sans-serif;
+  }
+  
+  div#roboto ul {
+    margin-top: -5px;
+  }
+  
+  #roboto .thin {
+    font-weight: 100;
+  }
+  
+  #roboto .light {
+    font-weight: 300;
+  }
+  
+  #text {
+    border: solid 4px black;
+    padding: 10px;
+    margin: 5px;
+  }
